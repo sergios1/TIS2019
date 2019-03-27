@@ -1,0 +1,5 @@
+1.instalar xamp a windows
+2.descarga la carpeta proyecto
+3.copea la carpeta proyecto en xamp/httdocs
+4 ejecuta xamp y habilita php y mysql 
+5 en tu navegador pones localhost/proyecto
