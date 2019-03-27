@@ -1,0 +1,47 @@
+body{
+	background: url(../img/fondo.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+.as{
+	color: white;
+}
+.as:hover{
+	color: white;
+	text-decoration: none;
+}
+
+#footer{
+ position: absolute;
+ bottom: 0;
+ text-align: center;
+ width: 100%;
+ height: 113px;
+}
+.page-footer2 {
+  position: absolute;
+  margin-top: 10px;
+  padding-top: 10px;
+  background-color: #181819;
+}
+.page-footer2 .footer-copyright {
+  
+  height: 10px;
+  line-height: 10px;
+  color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(51, 51, 51, 0.08);
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 180px;
+    margin-bottom: 10px;
+  }
+  h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
